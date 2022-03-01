@@ -1,0 +1,557 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Apostolike obedience. Shewing the duty of subiects to pay tribute and taxes to their princes, according to the word of God, in the law and the Gospell, and the rules of religion, and cases of conscience; determined by the ancient fathers, and the best moderne divines; yea even by those neoterickes who in some other things, put too strict limits to regalitie. A sermon preached at Northampton, at the assises, for the countie, Feb. 22. 1626. / By Robert Sybthorpe Doctor in Divinity, vicar of Brackley..</title>
+            <author>Sybthorpe, Robert, d. 1662.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1627</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 63 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08086</idno>
+            <idno type="STC">STC 22526</idno>
+            <idno type="STC">ESTC S125965</idno>
+            <idno type="EEBO-CITATION">71305177</idno>
+            <idno type="OCLC">ocm 71305177</idno>
+            <idno type="VID">183904</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08086)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183904)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2209:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Apostolike obedience. Shewing the duty of subiects to pay tribute and taxes to their princes, according to the word of God, in the law and the Gospell, and the rules of religion, and cases of conscience; determined by the ancient fathers, and the best moderne divines; yea even by those neoterickes who in some other things, put too strict limits to regalitie. A sermon preached at Northampton, at the assises, for the countie, Feb. 22. 1626. / By Robert Sybthorpe Doctor in Divinity, vicar of Brackley..</title>
+                  <author>Sybthorpe, Robert, d. 1662.</author>
+               </titleStmt>
+               <extent>[4], 36 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Miles Flesher for R.M. and are to be sold by Iames Bowler.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1627..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Catchword on p. 5: and.</note>
+                  <note>Signatures: [pi]² B-E⁴ F².</note>
+                  <note>Reproduction of original in: Newberry Library.</note>
+                  <note>Includes bibliographical references in marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Romans XIII, 7 --  Sermons --  Early works to 1800.</term>
+               <term>Taxation --  Great Britain --  Sermons --  Early works to 1800.</term>
+               <term>Tithes --  Great Britain --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:183904:1"/>
+            <pb facs="tcp:183904:1"/>
+            <p>APOSTOLIKE OBEDIENCE.</p>
+            <p>Shewing the <hi>Duty</hi> of <hi>Subiects</hi> to pay <hi>Tribute</hi> and <hi>Taxes</hi> to their <hi>Princes,</hi> accor<g ref="char:EOLhyphen"/>ding to the <hi>Word of God,</hi> in the <hi>Law</hi> and the <hi>Goſpell,</hi> and the <hi>Rules of Religion,</hi> and <hi>Caſes of Conſcience;</hi>
+            </p>
+            <p>Determined by the <hi>Ancient Fathers,</hi> and the beſt <hi>Moderne Divines;</hi> yea even by thoſe <hi>Neoterickes</hi> who in ſome <hi>other things,</hi> put <hi>too ſtrict Limits</hi> to <hi>Regalitie.</hi>
+            </p>
+            <p>A Sermon preached at <hi>Northampton,</hi> at the <hi>Aſsiſes,</hi> for the Countie, <hi>Feb.</hi> 22. 1626.</p>
+            <p>BY ROBERT SYBTHORPE, Doctor in Divinity, Vicar of <hi>Brackley.</hi>
+            </p>
+            <q>
+               <hi>Tributa verò et Cenſus, ijs qui à vobis conſtituti ſunt, ubi<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> inprimis conamur pendere.</hi> 
+               <bibl>Iuſt. Mart. Apol. pro Chriſtian. ad Anton. Pium.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Miles Fleſher</hi> for <hi>R. M.</hi> and are to be ſold by <hi>Iames Bowler.</hi> 1627.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:183904:2" rendition="simple:additions"/>
+            <p>I Have read over this Sermon upon <hi>Rom.</hi> 13.7. prea<g ref="char:EOLhyphen"/>ched at <hi>Northampton</hi> at the aſſiſes for the County <hi>Feb.</hi> 22. 1626. by <hi>Robert Sybthorpe</hi> Doctor of Divinity, Vicar of <hi>Brackley,</hi> and I doe approve it as a Sermon learnedly and diſcreetly preached, and agreeable to the <hi>ancient Do<g ref="char:EOLhyphen"/>ctrine</hi> of the <hi>Primative Church,</hi> both for <hi>Faith</hi> and <hi>good manners,</hi> and to the <hi>Doctrine eſtabliſhed</hi> in the <hi>Church of England,</hi> and therefore under mine hand give authority for the printing of it, <hi>May</hi> 8. 1627.</p>
+            <closer>
+               <signed>GEO: LONDON.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:183904:2" rendition="simple:additions"/>
+            <head>TO THE MOST HIGH AND MIGHTY PRINCE CHARLES, by the Grace of God King of <hi>Great Britaine, France,</hi> and <hi>Ireland,</hi> Defender of the Faith, &amp;c.</head>
+            <opener>
+               <salute>Moſt gratious and dread Soveraigne;</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE ſmalleſt <hi>Brookes</hi> have their ori<g ref="char:EOLhyphen"/>ginall from the <hi>Ocean,</hi> and returne thither to pay their <hi>Tribute;</hi> So theſe my poore <hi>Meditations,</hi> which were firſt conceived upon<note n="a" place="margin">Inſtructions directed from <hi>the Kings moſt excellent Maje<g ref="char:EOLhyphen"/>ſtie</hi> unto all the Biſhops of this Kingdome, and fit to bee put in execution, a<g ref="char:EOLhyphen"/>greeable to the neceſſity of the times.</note> 
+               <hi>your Majeſties Inſtructions,</hi> and afterward brought forth upon<note n="b" place="margin">At <hi>Northamp<g ref="char:EOLhyphen"/>ton Ianuar.</hi> 12. when, by the right Honoura<g ref="char:EOLhyphen"/>ble <hi>the Lord Preſident of the Counſell, and the Earle of Exeter,</hi> &amp;c. I, with other Divines, was put upon it, to deliver my opi<g ref="char:EOLhyphen"/>nion in caſe of Conſcience, and Religion, <hi>Whether it were lawfull to lend to the King or not?</hi>
+               </note> 
+               <hi>your Commiſsion,</hi> and lately learned to ſpeake in a<note n="c" place="margin">At the Aſſiſes at Northamp<g ref="char:EOLhyphen"/>ton.</note> 
+               <hi>Solemne Iuditious Aſſembly,</hi> being now <hi>adventurous to walke abroad,</hi> preſume to preſent themſelues to your <hi>Gratious goodneſſe,</hi> in their dutie of <hi>Allegeance and gratitude,</hi> Humbly beſeeching <hi>your Highneſſe protection,</hi> that they may paſſe <hi>ſecurely</hi> in your Kingdome, where they may tell your <hi>Subjects</hi> of that <hi>Dutie,</hi> which being underſtood to be <hi>grounded</hi> upon <hi>Conſcience</hi> and <hi>Religion,</hi> they will (no doubt,) <hi>rejoyce</hi> that they have beene ſo <hi>willing</hi> and <hi>ready</hi> to performe it; with Prayers for which, and for your Majeſties long and proſperous Raigne over us, I reſt</p>
+            <closer>
+               <signed>
+                  <hi>Your Majeſties</hi> Loyall, Obedient, Humble Subject <hi>Rob: Sybthorpe.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:183904:3"/>
+            <head>TO HIS DEARE AND NOVRCEING MOTHER, THE <hi>Church</hi> and <hi>Common-weale</hi> of <hi>England.</hi>
+            </head>
+            <head type="sub">An humble Sonne, and devoted Servant, pray<g ref="char:EOLhyphen"/>eth <hi>Peace</hi> and <hi>Proſperitie.</hi>
+            </head>
+            <opener>
+               <salute>Holy and happy Mother:</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Know his <hi>Majeſties Love</hi> deſireth to have you <hi>united</hi> and <hi>neare</hi> unto him, and ſo much he hath<note n="a" place="margin">In his Maje<g ref="char:EOLhyphen"/>ſties inſtructi<g ref="char:EOLhyphen"/>ons to all Bi<g ref="char:EOLhyphen"/>ſhops, &amp;c.</note> injoyned us of the Tribe of <hi>Levi,</hi> to certifie un<g ref="char:EOLhyphen"/>to you. Wherefore I thought it not my part to ſeparate you, eſpecially in a buſineſſe which ſo nearely<note n="b" place="margin">Being the protection of Religion, and ſafetie of the State.</note> concerneth you as well as him; But earneſtly to intreate you to take Conſidera<g ref="char:EOLhyphen"/>tion of the <hi>innocencie</hi> and <hi>obedience</hi> wherewith our <hi>Religion</hi> hath hitherto beene <hi>crowned,</hi> (which I here point at briefly, and could demonſtrate at large,) and the <hi>Peace</hi> and <hi>Proſperitie</hi> which it hath <hi>pro<g ref="char:EOLhyphen"/>duced.</hi> And whereas the<note n="c" place="margin">As appeares by his Maje<g ref="char:EOLhyphen"/>ſties Commiſ<g ref="char:EOLhyphen"/>ſion for the Loane.</note> 
+               <hi>Prince</hi> pleads not the <hi>Po<g ref="char:EOLhyphen"/>wer of Prerogative,</hi> nor the <hi>leading of Preſidents,</hi> ſo much as <hi>Pietie</hi> for <hi>Religions protection,</hi> the <hi>States occaſion,</hi> and the <hi>inevitable Neceſſitie</hi> of the ſeaſon. Oh! let not the <hi>People</hi> ſtand ſo much upon pretence of <hi>Libertie,</hi> as to loſe <hi>Safetie.</hi> Nor let <hi>Forms</hi> bring the <hi>Matter</hi> to <hi>Privation,</hi> but let all meete in a ſweet <hi>Mean</hi> for the <hi>Preſervation</hi> of the <hi>Vniverſe;</hi> for which perpetually praying, I continue</p>
+            <closer>
+               <signed>At your ſervice and diſpoſe, ROB. SYBTHORPE.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:183904:3"/>
+            <head>APOSTOLIKE OBEDIENCE.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>ROM. 13.7.</hi>
+                  </bibl>
+                  <p>Render therefore to all their Dues.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>Rue was that ſaying of <hi>Solon</hi> which affirmed that Co<g ref="char:cmbAbbrStroke">̄</g>mon-weales conſiſt of <hi>Reward</hi> and <hi>Puniſhment,</hi> and that when theſe bee taken away, the whole diſci<g ref="char:EOLhyphen"/>pline of Cities faileth and is diſſolved; For the care of Equity and Iuſtice waxeth cold in the mindes of many, unleſſe there be due honour for vertue, neither can the wilfulneſſe of wicked men be reſtrained, but by ſeverity and chaſtiſement of pains: wherfore, whereas the principall part of Juſtice is, <hi>Vnicui<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſuum tribuere;</hi> To ren<g ref="char:EOLhyphen"/>der to every man his owne; a more pro<g ref="char:EOLhyphen"/>per Text in my opinion, cannot bee ſe<g ref="char:EOLhyphen"/>lected
+<pb n="2" facs="tcp:183904:4"/>for this Iudicious and Iudiciary Aſ<g ref="char:EOLhyphen"/>ſembly, then this of the Apoſtle propoſed unto you; <hi>Render therefore to all their dues.</hi>
+            </p>
+            <p>For the generall Expoſition and Cohae<g ref="char:EOLhyphen"/>rence of which words, it is obvious to every underſtanding obſerver, That after that our Apoſtle had deſcended from <hi>De<g ref="char:EOLhyphen"/>ctrinall</hi> points of Faith (which hee handled in the eleven firſt Chapters) to <hi>Morall</hi> In<g ref="char:EOLhyphen"/>ferences and inſtruction for life; as con<g ref="char:EOLhyphen"/>cluſions to bee drawne out of the premiſ<g ref="char:EOLhyphen"/>ſes, Chap 12. And had therein mixed the mutuall duties of ſundry vocations in the generall; He in this Chapter from the firſt verſe to the eightth, deciphereth <hi>the ſpeciall prerogative, and abſolute obedience, which Souereignes have, and Subjects owe,</hi> in particular: which he inforceth by a kinde of <hi>Rethoricall Syllogiſme.</hi> The <hi>Major</hi> whereof is in the firſt words of the firſt verſe, <hi>Let every ſoule be ſubject unto the high<g ref="char:EOLhyphen"/>er powers:</hi> The <hi>Minor</hi> to confirme his Po<g ref="char:EOLhyphen"/>ſition in the latter end of the ſame, and in the 2.3.4.5. and 6. verſes following, <hi>for there is no power but of God; the powers that
+<pb n="3" facs="tcp:183904:4"/>be are ordained of God:</hi> VVhereupon hee grounds and drawes a <hi>Concluſion</hi> in this verſe, part whereof I onely handle, <hi>Render therefore to all their dues.</hi>
+            </p>
+            <p>The <hi>Minor</hi> of this Rhetoricall Syllogiſme conſiſts of divers Proſyllogiſmes, out of every of which is deduced the propoſed Concluſion, in this manner:</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+               <hi>There is no power but of God, and the powers that be are ordained of God:</hi> verſe 1.</p>
+            <p>But a <hi>Prince</hi> is a ſpeciall power, and or<g ref="char:EOLhyphen"/>dained of God:</p>
+            <p>Therefore <hi>for the Ordainers ſake, which is God,</hi> Render to all their dues.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+               <hi>Whoſoever reſiſteth the power, reſiſteth the Ordinance of God. And they that reſiſt ſhal receive to themſelves damnation:</hi> ver. 2.</p>
+            <p>But he that reſiſteth the <hi>Prince,</hi> reſiſteth the power and ordinance of God, and conſequently ſhall receive dam<g ref="char:EOLhyphen"/>nation:</p>
+            <p>Therefore <hi>for your ſoules ſake,</hi> Render to all their dues.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 
+               <hi>Rules are onely a terrour to the wicked, but for the praiſe of thoſe that doe well:</hi> v. 3.</p>
+            <pb n="4" facs="tcp:183904:5"/>
+            <p> But they that reſiſt, it is a ſigne that they eſteeme them a Terror, and expect no praiſe from them, and conſequently that they are <hi>wicked</hi> and <hi>not well doers:</hi>
+            </p>
+            <p>Therefore for avoiding that imputation, <hi>Even for your credits ſake,</hi> Render to all their dues.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> 
+               <hi>The Ruler is the Miniſter of God for thy good: </hi>verſe 4.</p>
+            <p>But it is juſt by the Law of <hi>Nature,</hi> that we ſhould give to thoſe that miniſter for our good:</p>
+            <p>Therefore <hi>for Naturall Iuſtice ſake,</hi> Ren<g ref="char:EOLhyphen"/>der to all their dues.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> 
+               <hi>The Ruler beares not the ſword in vaine, but is the Revenger of wrath on them that doe evill:</hi> verſe 4.</p>
+            <p>But there is no man which doth not evil in ſome things, and conſequently is ſubject to wrath and revenge:</p>
+            <p>Therefore even <hi>for Policies ſake,</hi> Render to all their dues.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> 
+               <hi>Ye muſt be ſubject, not onely for wrath, but alſo becauſe of conſcience:</hi> verſe 5.</p>
+            <p>But whatſoever a man is bound to doe
+<pb n="5" facs="tcp:183904:5"/>for conſcience as well as for feare, every man is bound to doe in duty:</p>
+            <p>Therefore <hi>for duties ſake,</hi> Render to all their dues.</p>
+            <p>
+               <note n="a" place="margin">Non mirum eſt Paulum tot mo<g ref="char:EOLhyphen"/>dis &amp; rationibus commendare no<g ref="char:EOLhyphen"/>bis obedientiam erga Magiſtra<g ref="char:EOLhyphen"/>tum; afficile e<g ref="char:EOLhyphen"/>nim aliequi eſt ſuperbos hominu<g ref="char:cmbAbbrStroke">̄</g> ſenſus in hoc of<g ref="char:EOLhyphen"/>ficio continere, volumus enim omnes eſſe domi<g ref="char:EOLhyphen"/>ni &amp; parere ne<g ref="char:EOLhyphen"/>mini. <hi>Pet. Mart. in loc.</hi>
+               </note> 
+               <milestone type="tcpmilestone" unit="unspecified" n="7"/> 
+               <hi>You pay tribute to Rulers for this Cauſe, be<g ref="char:EOLhyphen"/>cauſe they are Gods Miniſters attending continually upon Government:</hi> verſe 6.</p>
+            <p>But whatſoever men attend upon con<g ref="char:EOLhyphen"/>tinually, they are to bee paid that which is due for it, and conſequent<g ref="char:EOLhyphen"/>ly <hi>Princes</hi> which attend upon go<g ref="char:EOLhyphen"/>vernment continually are to be paid the due for it, which is <hi>Tribute:</hi>
+            </p>
+            <p>Therefore <hi>for Conſcience ſake,</hi> Render to all their dues.</p>
+            <p>And ſo from the Paraphraſe I deſcend to ſurvey the Particulars; only let me entreat leave by the way, that although <hi>the ſpeciall ſcope of my Text aime at the dues to</hi>
+               <note n="b" place="margin">Athana. <hi>or</hi> Volgar. <hi>or</hi> Theo<g ref="char:EOLhyphen"/>phil. Aquin. Lyra. Bruco. Claud. Calvin. Marlorat. Paraus.</note> 
+               <hi>all Prin<g ref="char:EOLhyphen"/>ces, whether good Governors or Tyrants,</hi> (as I ſhal alſo proſecute it) yet I may not bee ſo tied up, but that I may extend this <hi>(All)</hi> to al perſons, Princes &amp; People, Magiſtrats and Miniſters Superior &amp; inferior, Nocent and Innocent; as S. <hi>Ambroſe, Gorran, Muſculus,</hi>
+               <pb n="6" facs="tcp:183904:6"/>and <hi>Rolloc</hi> underſtand it: VVhere hence in ſtead of a <hi>Diviſion,</hi> let mee commend to your conſideration theſe <hi>foure poſitions:</hi>
+            </p>
+            <p>Firſt;<note n="c" place="margin">Vide Chryſoſt. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Anſelm. in loc. Sedul. Luther. Oſitud. Muſcul. Arct. Brent. Fulk &amp;c.</note> That Chriſtian liberty hath not freed us from Civill Obedience, but that Chriſtians are bound in duty one to ano<g ref="char:EOLhyphen"/>ther, <hi>eſpecially all Subjects, to all their Princes, according to the Lawes &amp; Cuſtomes of the king<g ref="char:EOLhyphen"/>dome wherein they live,</hi> intimated in this word <hi>(Dues.)</hi>
+            </p>
+            <p>Secondly; That thoſe duties to which Chriſtians are ſo bound, are not onely im<g ref="char:EOLhyphen"/>poſed upon ſome, and others looſe, but as they are <hi>promiſcuous,</hi> ſo they are <hi>univerſall</hi> Duties, implied in theſe words, <hi>(to all.)</hi>
+            </p>
+            <p>Thirdly; That although there be duties to which Chriſtians are ſo obliged and all have their part in the marter of that Obli<g ref="char:EOLhyphen"/>gation or Dutie, yet they have it in a <hi>diffe<g ref="char:EOLhyphen"/>rent degree or manner,</hi> every one in his parti<g ref="char:EOLhyphen"/>cular place and order, deſigned in this word <hi>(their.)</hi>
+            </p>
+            <p>Fourthly; That thoſe duties of every man according to his order, <hi>to al Princes,</hi> are not to be performed meerely for compulſory
+<pb n="7" facs="tcp:183904:6"/>
+               <hi>Neceſsity,</hi> but <hi>voluntarily</hi> and <hi>cheerefully,</hi> de<g ref="char:EOLhyphen"/>notated in this word <hi>(Give or Render.) Ren<g ref="char:EOLhyphen"/>der therefore to all their dues.</hi>
+            </p>
+            <p>Firſt; That Chriſtian Liberty hath not freed us from Civill Obedience; but that Chriſtians are bound in duty one to ano<g ref="char:EOLhyphen"/>ther, <hi>eſpecially all Subjects, to all their Princes, according to the Lawes and Cuſtomes of that Kingdome wherin they live,</hi> intimated in this word <hi>(Dues.)</hi>
+            </p>
+            <p>VVhoſoever can put difference between the body and the ſoule, betweene this pre<g ref="char:EOLhyphen"/>ſent tranſitory life, and that eternall which is to come, he ſhall eaſily underſtand, That the <hi>ſpirituall Kingdome of Chriſt, and the Civil government of Princes, are things of a different nature, Iohn</hi> 18.36. And that the liberty of the <hi>Soule</hi> fro<g ref="char:cmbAbbrStroke">̄</g> 
+               <hi>Iewiſh</hi> or <hi>over numerous Cere<g ref="char:EOLhyphen"/>monies,</hi> and of the <hi>body</hi> from <hi>ſubjection,</hi> have no relation, nor cary any correſpondency the one to the other, but that it is a <hi>Iewiſh error</hi> to incloſe the kingdome of Chriſt un<g ref="char:EOLhyphen"/>der the elements of this world, and to con<g ref="char:EOLhyphen"/>found the licentiouſneſſe of the fleſh with the liberty of the ſpirit, ſithence <hi>ſpiritual li<g ref="char:EOLhyphen"/>berty
+<pb n="8" facs="tcp:183904:7"/>may very well agree with civill bondage,</hi> 1 <hi>Cor.</hi> 7.21. and it is not materiall, whether thou be bond or free, Iew or Grecian, Bar<g ref="char:EOLhyphen"/>baria<g ref="char:cmbAbbrStroke">̄</g> or Scythian, in what degree or eſtate, or under the Lawes of what Nation thou liveſt, (ſo that thou keepe the Law of God inviolate) <hi>Thou art bound to performe civil o<g ref="char:EOLhyphen"/>bedience to the Lawes of the Land where thou liveſt;</hi> yea, <hi>ex neceſsitate juſtitiae tenentur ſub<g ref="char:EOLhyphen"/>diti,</hi> ſaith,<note n="a" place="margin">In loc:</note> 
+               <hi>Aquinas; Subjects</hi> are bound to <hi>obedience</hi> by the double obligation of <hi>Iuſtice</hi> and of <hi>Neceſsity;</hi> except they will ſuffer as <hi>Rebels,</hi> or <hi>ill-doers,</hi> or <hi>buſie-bodies</hi> in other mens matter, as<note n="b" place="margin">1 Pet. 4.15.</note> S. <hi>Peter</hi> phraſeth it. Or except they will have that <hi>inconvenience granted,</hi> that the <hi>Generall Lawes or Govern<g ref="char:EOLhyphen"/>ment of a Nation, muſt be diſpenſed withall ac<g ref="char:EOLhyphen"/>cording to the particular conceit and apprehen<g ref="char:EOLhyphen"/>ſion of every private perſon.</hi> Whereout what <hi>Tolleration</hi> of hereſie, what <hi>Connivence</hi> at er<g ref="char:EOLhyphen"/>rors; what danger of <hi>Schiſmes in the Church,</hi> and <hi>Factions in the State,</hi> muſt neceſſarily follow, is eaſie to be conjectured: ſo that the common Adage vnder <hi>Nerva's</hi> Empire would bee verified, It is ill to live under a
+<pb n="9" facs="tcp:183904:7"/>Prince under whom nothing is lawfull, but worſe to live under him under whom All things are lawfull; under the one a <hi>Tyranny</hi> conſumes ſome, under the other an <hi>Anar<g ref="char:EOLhyphen"/>chie</hi> confounds all, which if we will avoid in a <hi>Chriſtian Commonaltie,</hi> then <hi>where the li<g ref="char:EOLhyphen"/>bertie of a few erroneous conſciences, brings the Bondage of many regulated Commands;</hi>
+               <note place="margin">Calvin. Inſtit. lib. <hi>3.</hi> cap. <hi>19.12.</hi>
+               </note> 
+               <hi>Habe<g ref="char:EOLhyphen"/>mus neceſsitatem vindicandae Libertatis, ſi</hi>
+               <note n="*" place="margin">Such as were thoſe <hi>falſe apo<g ref="char:EOLhyphen"/>ſtles,</hi> who mixt Iudaiſme with Chriſtianity And ſuch as are thoſe <hi>factious Preachers,</hi> who countenance Libertiniſme, and Diſobedi<g ref="char:EOLhyphen"/>ence to Princes, vnder the color of Religion; unjuſtly exact<g ref="char:EOLhyphen"/>ing that from the people to themſelves, which they ought juſtly to give to God and their King.</note> 
+               <hi>per iniquas exactiones pſeudo-apoſtolorum ea infir<g ref="char:EOLhyphen"/>mis in conſcientijs periclitetur,</hi> ſaith <hi>Calvin;</hi> and we muſt preferre the <hi>generall</hi> before the <hi>par<g ref="char:EOLhyphen"/>ticular,</hi> and not let every one bee let looſe to their liſt and affection, but all muſt bee kept within the liſts of their Dutie and Subjecti<g ref="char:EOLhyphen"/>on, <hi>(Dues.)</hi>
+            </p>
+            <p>For the better accompliſhment where<g ref="char:EOLhyphen"/>of, wee muſt conſider in the ſecond place, That <hi>thoſe Duties to which Chriſtians are ſo bound, are not only impoſed upon ſome, and o<g ref="char:EOLhyphen"/>thers looſe, but as they are promiſcuous, ſo they are univerſall Duties,</hi> implyed in theſe words <hi>(To all.)</hi>
+            </p>
+            <p>Which that wee may ſurvay without Confuſion, we muſt conſider that the<note n="a" place="margin">1 Cor. 12.</note> 
+               <hi>Bo<g ref="char:EOLhyphen"/>dy
+<pb n="10" facs="tcp:183904:8"/>politike,</hi> like the body naturall, conſiſts of the <hi>head and members:</hi> Thoſe <hi>Members</hi> either <hi>Confuſedly</hi> make vp the <hi>Trunke</hi> or Corps, or more <hi>Particularly</hi> are <hi>Diſtinguiſhed</hi> into more, or leſſe principall; The Superiour and Inferiour Orbe, as Phiſitians phraſe it; The <hi>Head</hi> repreſents the <hi>Prince or King;</hi> The <hi>Truncke,</hi> the <hi>Common-weale</hi> or people; And as in the body Naturall, euery Member hath his office, either to miniſter nouriſhment and helpe to, or to ſuffer and be compaſſio<g ref="char:EOLhyphen"/>nate with, the other; except it be withered, dried vp, dead, inſenſible, and vſeleſſe. So in the body Politike, euery one of the fore<g ref="char:EOLhyphen"/>ſaid Members, hath his Duty to performe to, and his due to receiue of others.</p>
+            <p>The <hi>Prince</hi> who is the <hi>Head,</hi> and makes his <hi>Court</hi> and <hi>Counſell,</hi> as the <hi>ſedes ſenſuum,</hi> hath his <hi>Duty</hi> to 1 <hi>Direct,</hi> 2 <hi>Command,</hi> and 3 <hi>Protect.</hi>
+               <note n="b" place="margin">Videtur mihi Apoſtolus hic ſummatim velle comprehendere quibus in rebus ſita ſint ſubdito<g ref="char:EOLhyphen"/>rum erga Magi<g ref="char:EOLhyphen"/>ſtratus officia, Nempe ut ipſos in pretio ac hono<g ref="char:EOLhyphen"/>re habeant, ut eorum pareant edictis, legibus, iudiciis, ut tribu<g ref="char:EOLhyphen"/>ta &amp; vectigalia perſolvant, non portoria modo &amp; indistiones, ſed et alios quoque red<g ref="char:EOLhyphen"/>ditus. <hi>Calvin. in loc.</hi>
+               </note> And his <hi>Due</hi> to bee, 1 <hi>honoured,</hi> 2 <hi>obeyed,</hi> and 3 <hi>maintained.</hi>
+            </p>
+            <p>His dutie to 1 direct, 2 command, and 3 protect.</p>
+            <list>
+               <item>Firſt, to <hi>direct and make lawes, Eccleſ.</hi> 8.3.4. Hee doth whatſoeuer pleaſeth him,
+<pb n="11" facs="tcp:183904:8"/>where the <hi>word of the King</hi> is, there is <hi>pow<g ref="char:EOLhyphen"/>er.</hi> And who may ſay unto him, <hi>what doſt thou?</hi>
+               </item>
+               <item>Secondly, to <hi>command execution of law and juſtice, Proverb.</hi> 16.10. A divine ſentence is in the lips of the King, his mouth tranſgreſ<g ref="char:EOLhyphen"/>ſeth not in judgement; But the <hi>wrath of the King</hi> is the meſſenger of <hi>death,</hi> verſe 14. So that <hi>Nemo leges Regum impune reprobat niſi Reges ipſi, in quibus praevaricationis crimen lo<g ref="char:EOLhyphen"/>cum non habet, Prudenter enim dictum eſt, impi<g ref="char:EOLhyphen"/>um eſſe qui Regi dixerit, iniquè agis,</hi> ſaith Saint<note n="a" place="margin">In Ioh. l. <hi>12.</hi> c. <hi>56.</hi>
+                  </note> 
+                  <hi>Cyril.</hi>
+               </item>
+               <item>Thirdly, to <hi>protect the lawes and people com<g ref="char:EOLhyphen"/>manded by him, and committed to him,</hi> The Embleme and Motto of <hi>Alphonſus</hi> King of <hi>Naples,</hi> which was a Pelican drawing blood from her owne breſt with her beake to revive her yong ones, with this Inſcrip<g ref="char:EOLhyphen"/>tion, <hi>Pro lege et grege,</hi> being a proper enſigne for religious Princes. Which duties being performed by a Soveraigne; he may rightly require theſe dues of Subjects; (yea <hi>whether he performe his duty or not, hee may require theſe dues of them, as</hi> even <hi>Calvin</hi> &amp; <hi>Bucanus</hi> grant
+<pb n="12" facs="tcp:183904:9"/>it) to be 1 <hi>honoured,</hi> 2 <hi>obeyed,</hi> &amp; 3 <hi>maintained.</hi>
+               </item>
+            </list>
+            <p n="1">1 Firſt to be <hi>honoured in their perſons;</hi> For this is a due that we finde not onely requi<g ref="char:EOLhyphen"/>red by <hi>Saul,</hi> 1 <hi>Sam.</hi> 15.30. <hi>Honor me before the people;</hi> but juſtly taken by <hi>David,</hi> 1 <hi>Reg.</hi> 1.23.31. wherupon <hi>Paraeus</hi> makes the laſt words of this verſe, <hi>honor to who<g ref="char:cmbAbbrStroke">̄</g> honor belongeth;</hi> to be <hi>proper</hi> &amp; <hi>peculiar,</hi> eſpecially, <hi>Perſonae Principis.</hi>
+            </p>
+            <p>And this <hi>due</hi> conſiſts in a <hi>candide conſtru<g ref="char:EOLhyphen"/>ction of all their actions,</hi>
+               <note n="b" place="margin">
+                  <hi>Vid.</hi> Pet. Mart. Talman: Helhuſ.</note> 
+               <hi>although they commit ſome errors;</hi> as wee have example in that ſpeech of <hi>Bathſheba,</hi> when ſhe found <hi>Adoni<g ref="char:EOLhyphen"/>jah</hi> aſpiring to the ſucceſſion in the King<g ref="char:EOLhyphen"/>dome, contrarie to <hi>Davids</hi> oath to her con<g ref="char:EOLhyphen"/>cerning <hi>Salomon,</hi> She doth <hi>not unreverently taxe the King, but with a modeſt excuſe for him, tels the error;</hi> Behold <hi>Adoniah</hi> raigneth, and now my Lord the King thou knoweſt it not, 1 <hi>Reg.</hi> 1.18. So farre ſhould Subjects be from<note n="a" place="margin">Amand. Polan. partit. Theolog. et Tilenus, Pet. Mart. Calv. in <hi>Ier. 29. &amp;c.</hi>
+               </note> 
+               <hi>ſuſpition, raſh cenſure, and ſlander,</hi> that they ſhould eſteeme it <hi>as a reviling and a blaſphemie committed againſt God, to ſcanda<g ref="char:EOLhyphen"/>lize the Ruler of the people, Exod.</hi> 22.26.</p>
+            <p n="2">2 And as Rulers may <hi>juſtly</hi> challenge this <hi>honour</hi> to <hi>their perſons,</hi> ſo may they with no
+<pb n="13" facs="tcp:183904:9"/>leſſe right call for <hi>Obedience to their lawes and commands; Sive Princeps ſit fidelis, ſive in<g ref="char:EOLhyphen"/>fidelis; ſive iuſte, ſive avare, aut dure imperet,</hi> ſaith,<note n="b" place="margin">
+                  <hi>And</hi> Aug. in <hi>Pſal. 124.</hi> Julianus extitit infidelis impera<g ref="char:EOLhyphen"/>tor, nonne extitit Apoſtata? iniqus? idolatra? milites Chriſtianiſer vie<g ref="char:EOLhyphen"/>runt imperatori infideli, vbi ve<g ref="char:EOLhyphen"/>niebatur ad cauſa<g ref="char:cmbAbbrStroke">̄</g> Chriſti, non ag<g ref="char:EOLhyphen"/>noſcebant niſi illum qui in coelo erat. Quando vo lebat vt Idola co<g ref="char:EOLhyphen"/>lerent, vt thurifi<g ref="char:EOLhyphen"/>carent, praepone<g ref="char:EOLhyphen"/>bant illi Deum: quando autem dicebat, Produci<g ref="char:EOLhyphen"/>te aciem, ite con<g ref="char:EOLhyphen"/>tra illam gente<g ref="char:cmbAbbrStroke">̄</g>, ſtatim obtempe<g ref="char:EOLhyphen"/>rabant: diſtin<g ref="char:EOLhyphen"/>guebant Domi<g ref="char:EOLhyphen"/>num aeternum à domino tempora<g ref="char:EOLhyphen"/>li, et tamen ſub<g ref="char:EOLhyphen"/>diti erant prop<g ref="char:EOLhyphen"/>ter Dominum ae<g ref="char:EOLhyphen"/>ternum etiam domino te<g ref="char:cmbAbbrStroke">̄</g>porali. Bez in Conf. fidei Chr. &amp;c c. <hi>5.</hi> ſ. <hi>45.</hi> Neque aliud vi<g ref="char:EOLhyphen"/>lum remedium proponitur priva<g ref="char:EOLhyphen"/>tis hominibus tyranno ſubjectis. praeter vitae emendationem, &amp; preces &amp; lachrymas. Aret. loc. com. ſimiliter.</note> 
+               <hi>Bucanus</hi> (who is no Royaliſt) whe<g ref="char:EOLhyphen"/>ther the <hi>Prince</hi> be a Beleever or an Infidell; whether hee rule juſtly or unjuſtly, courte<g ref="char:EOLhyphen"/>ouſly or couetouſly &amp; cruelly; For wheras there are but <hi>duo legis Termini;</hi> Two effects of the law; 1 The one to <hi>performe the Com<g ref="char:EOLhyphen"/>mandement:</hi> 2 The other to <hi>undergoe the pu<g ref="char:EOLhyphen"/>niſhment.</hi> If Princes command any thing which Subjects may not performe;<note n="c" place="bottom">I know no other caſe but one of thoſe <hi>three</hi> wherein a Subject may excuſe himſelfe with <hi>Paſsive</hi> obedi<g ref="char:EOLhyphen"/>ence, but in <hi>All</hi> other he is bound to <hi>Active</hi> Obedience.</note> be<g ref="char:EOLhyphen"/>cauſe it is <hi>againſt the lawes of</hi> 1 <hi>God,</hi> or of 2 <hi>Na<g ref="char:EOLhyphen"/>ture,</hi> or 3 <hi>impoſsible;</hi> yet <hi>Subjects</hi> are <hi>bound to undergoe the puniſhment</hi> without either <hi>reſi<g ref="char:EOLhyphen"/>ſtance,</hi> or <hi>railing</hi> and <hi>reviling.</hi> And ſo to yeeld a <hi>paſsive obedience,</hi> where they cannot exhi<g ref="char:EOLhyphen"/>bit an <hi>active one;</hi> yea and in that <hi>paſsive obe<g ref="char:EOLhyphen"/>dience</hi> there muſt bee ſtill <hi>actually</hi> retained, 1 <hi>fidelitie,</hi> free from <hi>conſpiracy,</hi> although they had <hi>power and oportunitie</hi> for it, 1 <hi>Sam.</hi> 26.8.9.10. <hi>Ierem.</hi> 29.7. And 2 <hi>pietie</hi> to pray even for their <hi>oppreſsing</hi> Rulers; <hi>ut det illis Deus vitam prolixam, imperiu<g ref="char:cmbAbbrStroke">̄</g> ſecurum, domum tutam,
+<pb n="14" facs="tcp:183904:10"/>exercitus fortes, populum probum, orbem quie<g ref="char:EOLhyphen"/>tum,</hi> That God would grant to them along life, a ſecure raigne, loyall Courtiers, valiant Soldiers, obedient Subjects, and peacefull neighbouring Princes, as the <hi>Primitive</hi> Chriſtians, prayed even for <hi>Ethnicke Empe<g ref="char:EOLhyphen"/>rors</hi> under whom they lived, as<note n="a" place="margin">Apol. c. <hi>30.</hi>
+               </note> 
+               <hi>Tertullian</hi> teacheth; whom the<note n="b" place="margin">Artic. <hi>40.</hi>
+               </note> 
+               <hi>French Confeſsion,</hi> to<g ref="char:EOLhyphen"/>gether with the <hi>Confeſsions</hi> of<note n="c" place="margin">Cap. <hi>16.</hi>
+               </note> 
+               <hi>Bohemia,</hi> and<note n="d" place="margin">Artic. <hi>16.</hi> et Apol Eccleſ. Anglic. c. <hi>6.</hi> diviſ. <hi>1.4.</hi> et defenſ. Apol. part. <hi>4.</hi>
+               </note> 
+               <hi>Auſpurge,</hi> ſeeme to imitate. Nor are <hi>Prin<g ref="char:EOLhyphen"/>ces</hi> onely thus to be 1 <hi>honoured,</hi> and 2 <hi>obeyed,</hi> but 3 <hi>maintained</hi> alſo.</p>
+            <p>For <hi>maintenance</hi> is to bee allowed for <hi>Princes</hi> both for the <hi>common charge</hi> of every office, and<note n="e" place="margin">Calvin, et Bu<g ref="char:EOLhyphen"/>can: de Magiſtrat. et Paraeus in loc.</note> their <hi>private Royaltie, which is conjoyned with the honour of the State:</hi> And that not onely out of their<note n="f" place="margin">Calvin <hi>4.</hi> Inſtit. c. <hi>20.</hi>
+               </note> 
+               <hi>Crowne Lands,</hi> and <hi>re<g ref="char:EOLhyphen"/>ſidues,</hi> and <hi>portions,</hi> mentioned <hi>Ezek.</hi> 48.21. But alſo by <hi>impoſed Taxes;</hi> whether it bee<note n="1" place="margin">Capitibus,</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Tributum,</hi> in this verſe; Ordinarie Taxes upon immoveables;<note n="2" place="margin">Solo,</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>vectigal,</hi> in the ſame verſe, impoſts upon Trades, Traf<g ref="char:EOLhyphen"/>fiques, and Merchandize.<note n="3" place="margin">Bonis im<g ref="char:EOLhyphen"/>mobilibus.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Cenſus, Mat.</hi> 22.17. Toll or Tythes upon their Lands, or<note n="4" place="margin">Et Portoriaſeu ve<g ref="char:EOLhyphen"/>ctigalia de Mer<g ref="char:EOLhyphen"/>cibus. <hi>Bucan.</hi> loc. <hi>49</hi> q. <hi>52.</hi>
+               </note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Matth.</hi> 17.24.25.<note n="*" place="margin">As for exam<g ref="char:EOLhyphen"/>ple, ſtatute for Subſidy, <hi>Iacob.</hi> 21. Pole mo<g ref="char:EOLhyphen"/>ney of all Stran<g ref="char:EOLhyphen"/>gers, Deniſons, or not And Statute for Subſidie, <hi>Carol.</hi> 1 Pole money of al Strangers, Deniſons, or not. And alſo of convict Recu<g ref="char:EOLhyphen"/>ſants above 17 yeares, be<g ref="char:EOLhyphen"/>ing not Subſidy men. And in many other places of our Statutes. <hi>Habet ius exi<g ref="char:EOLhyphen"/>gendi</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>ordinaria Tribu<g ref="char:EOLhyphen"/>ta ſeu taleam, De</hi>
+               </note> 
+               <hi>Pole money of
+<pb n="15" facs="tcp:183904:10"/>their perſons;</hi> at ſome times, and upon ſome occaſions.</p>
+            <p>
+               <hi>Tribute,</hi> being due to <hi>Princes</hi> by a <hi>Triple Obligation,</hi> as<note n="f" place="margin">In verſ. 6. <hi>ob<g ref="char:EOLhyphen"/>ſervat.</hi> 2.</note> 
+               <hi>Paraeus</hi> affirmes, (who I hope all will confeſſe is no <hi>paraſite</hi> to them) <hi>Iure</hi> 1 <hi>divino,</hi> 2 <hi>naturali, &amp;</hi> 3 <hi>civili,</hi> By the <hi>Law of God,</hi> as the ſigne of our ſubjection, by the <hi>Law of Nature,</hi> as the reward of their paines and protection; by the <hi>Law of Nations,</hi> as the ſinewes of the States preſeruation. Si<g ref="char:EOLhyphen"/>thence that without money, <hi>Soldiers</hi> cannot be waged for warre; <hi>Counſellors</hi> cannot be ſupported for peace; <hi>Intelligence</hi> cannot bee procured from abroad; <hi>Lawes</hi> cannot bee executed at home; nor <hi>Church</hi> can flouriſh; nor <hi>Common-weale</hi> ſtand firme: The conſi<g ref="char:EOLhyphen"/>deration of which things, no queſtion, made<note n="g" place="margin">Ad Philip. Ep.</note> 
+               <hi>Polycarpus,</hi>
+               <note n="h" place="margin">Ep. ad Toloſ.</note> 
+               <hi>Martialis,</hi>
+               <note n="i" place="margin">In Apol. pro Chriſtian: ad Anton. Pium.</note> 
+               <hi>Iuſtin Martyr,</hi>
+               <note n="k" place="margin">Vbi ſupra &amp; ad Scapul.</note> 
+               <hi>Tertullian,</hi>
+               <note n="l" place="margin">In Iul. orat. <hi>1.</hi>
+               </note> 
+               <hi>Greg: Nazianzen,</hi>
+               <note n="m" place="margin">Ep. <hi>33.</hi>
+               </note> 
+               <hi>Ambroſe,</hi>
+               <note n="n" place="margin">Ep. <hi>42.</hi> ad frat. Madaur.</note> 
+               <hi>Auguſt.</hi>
+               <note n="o" place="margin">In Mat. can. <hi>23.</hi>
+               </note> 
+               <hi>Hilarie,</hi>
+               <note n="p" place="margin">Sent. <hi>99.</hi>
+               </note> 
+               <hi>Proſper,</hi>
+               <note n="q" place="margin">
+                  <g ref="char:V">Ʋ</g>bi ſupra.</note> 
+               <hi>Cyril,</hi>
+               <note n="r" place="margin">Ep. <hi>170.</hi> ad Reg. Ludovic.</note> 
+               <hi>Ber<g ref="char:EOLhyphen"/>nard,</hi>
+               <note n="ſ" place="margin">In Roman.</note> 
+               <hi>Anſelme,</hi> (but what name I ſo many?) yea all <hi>Antiquity</hi> to bee abſolutely for abſo<g ref="char:EOLhyphen"/>lute <hi>obedience</hi> to Princes in <hi>all civill or tempo<g ref="char:EOLhyphen"/>rall things:</hi> And the more moderate moderne Divines, as<note n="t" place="margin">Sleid. Com. l. <hi>5.</hi>
+               </note> 
+               <hi>Luther,</hi>
+               <note n="u" place="margin">In Reſp. ad Artic. Ruſtico<g ref="char:EOLhyphen"/>rum, Quando quid praecipitur contra publicam juſtitiam, cuius generis ſunt bo<g ref="char:EOLhyphen"/>norum exactio, aut corporis ve<g ref="char:EOLhyphen"/>xatio, ſubditum in hujuſmodi in<g ref="char:EOLhyphen"/>juriis obedientia decet.</note> 
+               <hi>Brentius,</hi>
+               <note n="x" place="margin">Apud <hi>Luth.</hi> tom. p. <hi>463.</hi> Quamvis videa<g ref="char:EOLhyphen"/>mur promiſiſſe o<g ref="char:EOLhyphen"/>bedientia<g ref="char:cmbAbbrStroke">̄</g> hac co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ditione ſiligitime imperet Magi<g ref="char:EOLhyphen"/>ſtratus, tamen no<g ref="char:cmbAbbrStroke">̄</g> ideo licet injuſta<g ref="char:cmbAbbrStroke">̄</g> vim Magiſtratꝰ vi depellere. Vid Aret. loc. <hi>153.</hi>
+               </note> 
+               <hi>Melancthon,</hi>
+               <pb n="16" facs="tcp:183904:11"/>
+               <note n="z" place="margin">Inſtit. l. <hi>4.</hi> c. <hi>20</hi> ſ. <hi>24. to 30</hi> ac ubi ſupra.</note> 
+               <hi>Calvin,</hi>
+               <note n="a" place="margin">
+                  <g ref="char:V">Ʋ</g>bi ſupra.</note> 
+               <hi>Beza,</hi>
+               <note n="b" place="margin">Sub Hen. <hi>8.</hi> de Chriſt. hom. inſtit</note> 
+               <hi>Cranmer, and the Biſhops and Divines of England,</hi>
+               <note n="c" place="margin">The opinion of the Congre<g ref="char:EOLhyphen"/>gation, Art. 39. Edit. An. 1564</note> 
+               <hi>The Miniſters of the Reformed Churches,</hi>
+               <note n="d" place="margin">We know that though we bee free, we ought wholly in true faith holily to ſubmit our ſelves to the Magiſtrate both with our body, and with all our goods. <hi>vide Harm. conf. tit.</hi> Civil. Magiſtr.</note> 
+               <hi>the former Confeſsion of Helvetia, the Confeſsion of</hi>
+               <note n="e" place="margin">
+                  <hi>Art.</hi> 36. All men of what dignity, ſtate or condition ſoever they be, ought to be ſub<g ref="char:EOLhyphen"/>ject to their lawfull Magi<g ref="char:EOLhyphen"/>ſtrates, and pay unto them Subſidies and Tributes, and obey them in al things which are not repug<g ref="char:EOLhyphen"/>nant to the Word of God <hi>
+                     <g ref="char:V">Ʋ</g>ide ubi ſupra.</hi>
+               </note> 
+               <hi>Belgia,</hi>
+               <note n="f" place="bottom">Vbi ſupra.</note> 
+               <hi>Bucanus,</hi>
+               <note n="g" place="bottom">De Magiſtrat.</note> 
+               <hi>Chytreus,</hi> yea and<note n="h" place="bottom">In loc.</note> 
+               <hi>Paraeus</hi> (ſome of which otherwiſe are not ſo juſt to Princes) ac<g ref="char:EOLhyphen"/>knowledge in this particular, That if a Prince impoſe an <hi>immoderate,</hi> yea an <hi>unjuſt Taxe,</hi>
+               <note n="i" place="bottom">True Pietie bindes the ſubject to deſire a good Soveraigne, but to beare with a bad one, and to take up the bur<g ref="char:EOLhyphen"/>then of Princes with a bended knee, rather in time to deſerue abatement, then reſiſt au<g ref="char:EOLhyphen"/>thoritie. View raigne <hi>Hen.</hi> 3.</note> yet the <hi>ſubject</hi> may not thereupon <hi>withdraw his obedience</hi> and dutie; Nay hee is <hi>bound in conſcience to ſubmit,</hi> as under the ſcourge of his ſinne,; for, <hi>Quanquam actio immoderata, ſive expilatio injuſta eſt, tamen paſ<g ref="char:EOLhyphen"/>ſio eſt juſta,</hi> ſaith <hi>Bucanus.</hi> So that, as <hi>Paraeus</hi> (for I ſtill intend eſpecially to make uſe of <hi>Anti-royaliſts,</hi> becauſe they cannot be excep<g ref="char:EOLhyphen"/>ted againſt in this point) as <hi>Paraeus,</hi> I ſay obſerves upon thoſe words, verſ. 6. For this cauſe pay you Tribute alſo: <hi>Non dicit Apoſtolus propter hoc etiam Tributa exigunt, ſed Tributaeis ſolvitis; docens ſemper juſtè ſol<g ref="char:EOLhyphen"/>vitributa à ſubditis, licèt aliquando non juſtè exi<g ref="char:EOLhyphen"/>gantur à Magiſtratu:</hi> The Apoſtle doth not
+<pb n="17" facs="tcp:183904:11"/>ſay, For this cauſe they exact Tribute; but you pay them Tribute; thereby teaching, that <hi>Tribute may alwayes bee juſtly, and with a good conſcience, paid by the ſubject,</hi> although it be ſometimes unjuſtly impoſed and exact<g ref="char:EOLhyphen"/>ed by the Ruler: and he gives the inſtance in the Iewes and Romanes; <hi>Romani malè ad ſe traxerunt cenſum Templi, quem juſtè pen<g ref="char:EOLhyphen"/>debant Iudaei:</hi> And we might amplifie it in our <hi>Saviour,</hi> paying <hi>tribute</hi> although <hi>free,</hi> &amp; rather working a <hi>Miracle</hi> to pay, than have <hi>offence taken</hi> by the <hi>Ruler, Mat.</hi> 17.25.26.27.</p>
+            <p>Nor was this onely the <hi>Cuſtome of Con<g ref="char:EOLhyphen"/>querers,</hi> in forraine <hi>Kingdomes,</hi> which they <hi>invaded;</hi> but even of <hi>Native peacefull Kings,</hi> to their <hi>naturall Subjects,</hi> in thoſe <hi>Dominions</hi> whereto they were <hi>elected,</hi> or wherein they <hi>ſucceeded;</hi> as <hi>appeares in</hi>
+               <note n="a" place="margin">Non id jure facturi erant reges, quos opti<g ref="char:EOLhyphen"/>me ad omnem continentiam lex inſtituebat, ſed jus in populum vocahatur, cui parere ipſi neceſ<g ref="char:EOLhyphen"/>ſe eſſet, nec obſi<g ref="char:EOLhyphen"/>ſtere licet; ac ſi dixiſſet Samuel, eò ſe proripiet li<g ref="char:EOLhyphen"/>centiae Regum li<g ref="char:EOLhyphen"/>bido, quam cohi<g ref="char:EOLhyphen"/>bere veſtrum non erit, quibus hoc reſtabit unum juſſa excipere, ac dicto audientes eſſe. Cal. <hi>4.</hi> inſt. cap. <hi>20. § 26. I diſpute not here whether this be</hi> jus Reg<g ref="char:EOLhyphen"/>ni, <hi>or</hi> praxis Regum: <hi>but ſup<g ref="char:EOLhyphen"/>poſe it be but the practiſe of Kings, &amp; more than right, yet ye ſee</hi> Calvins <hi>judgment</hi> is Hos unum reſtat juſſa excipere.</note> 
+               <hi>Saul taking both the ſubſtance and Perſons of the Iſraelites,</hi> 1 <hi>Sam.</hi> 8.11. to 17. And in <hi>Solomon</hi> laying <hi>Taxes</hi> upon the ſame people, 1 <hi>Reg.</hi> 12.4. And how fearfull the very indeavoring to ſhake off theſe Burthens, (though too heavie to beare) hath proved, may appeare by that inſtance never to be imitated, of that people
+<pb n="18" facs="tcp:183904:12"/>in <hi>Rehoboams</hi> time, where the <hi>attempt to free their bodies and ſtates from Soveraigne Invaſion, captivated their ſoules under Idolatrous Superſti<g ref="char:EOLhyphen"/>tion,</hi> 1 <hi>Reg.</hi> 12.16.26.33.</p>
+            <p>Oh, let not us then conceive to our ſelves a <hi>Conſcience</hi> grounded upon <hi>ſuſpicious con<g ref="char:EOLhyphen"/>jectures, de futuris contingentibus;</hi> concerning which, no man can ſet downe certainties; And we are <hi>bound to beleeve the beſt</hi> concer<g ref="char:EOLhyphen"/>ning all men, much more <hi>concerning our So<g ref="char:EOLhyphen"/>veraignes promiſes,</hi> as<note n="b" place="margin">Quibus debe<g ref="char:EOLhyphen"/>tur candor (ju<g ref="char:EOLhyphen"/>ſtitia politica di<g ref="char:EOLhyphen"/>ſtributiva:) cu jus eſt, interpre<g ref="char:EOLhyphen"/>tari omnia in bo<g ref="char:EOLhyphen"/>nam partem, pro<g ref="char:EOLhyphen"/>ximo non detra<g ref="char:EOLhyphen"/>here, &amp; detra<g ref="char:EOLhyphen"/>hentibus aures non praebere, cum quo pugnat ca<g ref="char:EOLhyphen"/>lumnia ſeu obtre<g ref="char:EOLhyphen"/>ctatio, ſuspicaci<g ref="char:EOLhyphen"/>tas, &amp; diffiden<g ref="char:EOLhyphen"/>tiae.</note> 
+               <hi>Polanus</hi> and <hi>Tilenus</hi> truly. Nor let us ſquare our <hi>conſciences</hi> by the Lesbian Rule of <hi>Ieſuites</hi> and <hi>Schiſmatikes,</hi> contrary to all the current of <hi>Antiquity,</hi> as even themſelves are forced to confeſſe, whileſt<note n="c" place="margin">Bellarm. de Ro. Pont. Bucha<g ref="char:EOLhyphen"/>non de jure Regn. apud Scot.</note> they <hi>childiſhly</hi> anſwer, that the <hi>primitive Chriſtians obeyed their Rulers, onely becauſe they had not then power to reſiſt;</hi> which beſides that<note n="d" place="margin">Et Clem. Rom. Recognit. l <hi>1.</hi> fol. <hi>22</hi> &amp; Aug &amp;c vid. Belſon tract. <hi>of Chriſtian Subjection part</hi>
+               </note> S. <hi>Cyprian ad Demetrian,</hi> clears to the contrary, whileſt he tels us, <hi>Nemo noſtru<g ref="char:cmbAbbrStroke">̄</g> quando apprehenditur reluctatur, quamvis ni<g ref="char:EOLhyphen"/>mius, &amp; copioſus,</hi>
+               <note n="e" place="margin">Et Widdring<g ref="char:EOLhyphen"/>ton Apol. cont. Bellarm. pro. ju<g ref="char:EOLhyphen"/>re Princip. et Confut. <hi>of the Reply of</hi> T.F.</note> 
+               <hi>noſter ſit numerus.</hi> I hope Saint <hi>Pauls</hi> doctrine, both in this Chapter and 1 <hi>Tim.</hi> 2.1.2. and Saint <hi>Peters,</hi> 1 <hi>Pet.</hi> 2.13.14. is the ſame to us, it was to them:
+<pb n="19" facs="tcp:183904:12"/>yea and our Saviours <hi>Reddite Caeſari, Mat.</hi> 22.18. was not with a <hi>Rebus ſic ſtantibus,</hi> like that<note n="a" place="margin">Granted to the Papiſts in England at the procurement of <hi>Campian</hi> and <hi>Parſons</hi> 1580.</note> Bull of <hi>Gregory</hi> the thirteenth.</p>
+            <p>O let us not therefore, I ſay, conceive to our ſelves ſuch <hi>ſcruples,</hi> as not to give <hi>Tri<g ref="char:EOLhyphen"/>bute</hi> where and when <hi>Tribute</hi> is <hi>due,</hi> or to refuſe a<note n="b" place="margin">For it is but borrowed. <hi>Vid. Martin Hiſt.</hi> of 20. Kings <hi>Ed.</hi> 3. <hi>an.</hi> 14. 1339. <hi>p.</hi> 109. <hi>et Hollin<g ref="char:EOLhyphen"/>ſhed. Hen.</hi> 8. 1522. <hi>p.</hi> 874. <hi>&amp; ibid. ann.</hi> 14. 15. 1523. <hi>p</hi> 877. <hi>&amp; an.</hi> 34. 1541 <hi>p.</hi> 957. And the moſt, if not al of thoſe who beſt know the lawes of this kingdome, haue lent at this time, which aſ<g ref="char:EOLhyphen"/>ſuredly they would not have done, if they had not known that it was nei<g ref="char:EOLhyphen"/>ther vnjuſt nor vnlawfull</note> 
+               <hi>Loane,</hi> or any other <hi>Aide,</hi> which is <hi>not unjuſtly exacted;</hi> and which is<note n="c" place="margin">In his Maje<g ref="char:EOLhyphen"/>ſties commiſſi<g ref="char:EOLhyphen"/>on and Procla<g ref="char:EOLhyphen"/>mation.</note> promi<g ref="char:EOLhyphen"/>ſed ſhall <hi>not be immoderately demanded,</hi> eſpe<g ref="char:EOLhyphen"/>cially, conſidering that thereby, wee who are bound<note n="d" place="margin">1 Iohn 3.16.</note> to lay downe our <hi>lives</hi> for our <hi>brethren,</hi> may by laying downe a <hi>little</hi> of our <hi>eſtates,</hi> ſave our <hi>owne lives, and our bre<g ref="char:EOLhyphen"/>threns:</hi> Yea further conſidering, that it is <hi>not our brethren onely, but our ſelves alſo that are in danger,</hi> as is more than probable by the pro<g ref="char:EOLhyphen"/>ceedings in forraine parts. And further this may be conſidered alſo, that <hi>not onely our bodies</hi> are in danger of <hi>warre</hi> and <hi>wounds; but our ſoules,</hi> of <hi>Hereſie</hi> and <hi>Superſtition;</hi> Religion it ſelfe (as it is eſtabliſhed in this Kingdome) being the marke that is ſhot at in this buſineſſe.</p>
+            <p>Oh conſider what it would availe to winne the whole world, <hi>much leſſe our wils,</hi>
+               <pb n="20" facs="tcp:183904:13"/>and loſe our ſoules; And ſeriouſly conſi<g ref="char:EOLhyphen"/>der, how as <hi>Ieroboam</hi> tooke the opportuni<g ref="char:EOLhyphen"/>tie of the breach betwixt <hi>Rehoboam</hi> and his <hi>Subjects,</hi> to bring <hi>Idolatry into Iſrael:</hi> So the <hi>papiſts</hi> lye at waite, if they could find a Rent betwixt our Soveraigne and his Subjects, (which the Lord forbid) to <hi>reduce ſuperſti<g ref="char:EOLhyphen"/>tion into England:</hi> I ſpeake no more than I have heard from themſelves, whileſt <hi>I have obſerved their forwardneſſe to offer double</hi>
+               <note n="a" place="margin">
+                  <hi>Anno primo Reg. Carol.</hi> the Act for the ſub<g ref="char:EOLhyphen"/>ſidie of the Lay<g ref="char:EOLhyphen"/>tie, whereby Popiſh Recu<g ref="char:EOLhyphen"/>ſants were to pay double</note> 
+               <hi>ac<g ref="char:EOLhyphen"/>cording to an act of Parliament ſo providing; yea to profeſs, that they would depart with the halfe of their goods:</hi> And how or why can this <hi>for<g ref="char:EOLhyphen"/>wardneſſe be in them,</hi> but in hope to caſt the imputation of <hi>frowardneſſe upon us?</hi> and ſo to ſeeme (that which the <hi>Ieſuite</hi> will not ſuf<g ref="char:EOLhyphen"/>fer them to bee) <hi>loving</hi> and <hi>loyall</hi> Subjects. Nor ſpeake I this as a<note n="b" place="margin">For it is well knowne that I preached di<g ref="char:EOLhyphen"/>vers Sermons in the <hi>Lucture</hi> at <hi>Brackley</hi> to perſwade to the reliefe and ayd of Religion, the State, and our afflicted Bre<g ref="char:EOLhyphen"/>thren and Con<g ref="char:EOLhyphen"/>federates, long before there was any ſpeech of the <hi>Loane.</hi>
+               </note> 
+               <hi>Sycophanticall</hi> Time<g ref="char:EOLhyphen"/>ſerver, nor as a <hi>Statizing</hi> Court Oratour; or one who had <hi>left God to preach for the King;</hi> as ſome are too apt uncharitably to cenſure; <hi>unchristianly</hi> dividing <hi>God</hi> and the <hi>King.</hi> Yea ſooner would I with<note n="c" place="margin">Euſeb. l. <hi>2.</hi> c. <hi>23</hi>
+               </note> 
+               <hi>Iames</hi> the firſt Biſhop of <hi>Hieruſalem,</hi> have my <hi>braines</hi> beaten out with clubs; or with<note n="d" place="margin">Idem. l. <hi>8.</hi> c. <hi>20</hi>
+               </note> 
+               <hi>Romanus</hi> the Martyr,
+<pb n="21" facs="tcp:183904:13"/>have my tongue plucked out of my head; or with thoſe ancient <hi>Martyrs</hi> of<note n="e" place="margin">Ibidem. c. <hi>12.</hi>
+               </note> 
+               <hi>Antioch,</hi> or ours of later times, <hi>burne</hi> off my own <hi>hand,</hi> than my braines ſhould be made the Inſtru<g ref="char:EOLhyphen"/>ment to invent, my tongue to utter, or my hand to write and defend that, by which <hi>Chriſtian Libertie</hi> ſhould bee captivated; <hi>Ty<g ref="char:EOLhyphen"/>ranny</hi> erected;<note n="f" place="margin">Bacon, Hen. <hi>7</hi>
+               </note> 
+               <hi>Heaven</hi> forced to deſcend to ſerve <hi>Earth; Divinitie</hi> made the Handmaid of <hi>Policie;</hi> or <hi>Religion</hi> the Stalking-horſe of the State: But out of an <hi>unfaigned feare of fu<g ref="char:EOLhyphen"/>ture Events</hi> at home and abroad, to the <hi>Church</hi> and <hi>State;</hi> out of an <hi>earneſt zeale to God and Religion;</hi> Out of a <hi>fellow-feeling</hi> of our Brethrens Miſeries; out of a <hi>religious de<g ref="char:EOLhyphen"/>ſire,</hi> that wee may all avoid that ſentence from the Almighty, <hi>Curſe ye Meroz, yea curſe them bitterly, becauſe they went not out to fight the battailes of the Lord, to helpe the Lord againſt the mightie,</hi> Iudg. 5.23. Out of an <hi>affectionate indeavour</hi> that each particular may eſcape that imputation; <hi>The diviſions of Ruben were great thoughts of heart,</hi> Iudg. 5.15.16. As of ſinceritie, as of God, in the ſight of God, I ſpeak my co<g ref="char:cmbAbbrStroke">̄</g>ſcience in Chriſt, both concer<g ref="char:EOLhyphen"/>ning
+<pb n="22" facs="tcp:183904:14"/>what is the <hi>duty of,</hi> &amp; <hi>the due to</hi> the <hi>head</hi> of this <hi>body politike,</hi> which is the <hi>King.</hi> And I earneſtly pray, and ſtedfaſtly hope, that hee which doth, and they which ſhall ſway the Scepter of this Kingdome, will conſider, that<note n="a" place="margin">Ambroſ. in loc. Reddi vult ab omnibus debita, quia et potentes ſunt debitores in<g ref="char:EOLhyphen"/>ſerioribus ut re<g ref="char:EOLhyphen"/>ſpondeant meri<g ref="char:EOLhyphen"/>tis illonem. Sic Calv. Inſtit. l. <hi>4</hi> c. <hi>20.</hi> ſ. <hi>29.</hi> et conf. Bohem. et Bucan. c. <hi>49.</hi> q. <hi>30</hi> et Chyt. in procept. <hi>5</hi>
+               </note> 
+               <hi>Rulers alſo owe mutuall duties to their Subjects,</hi> as 1 to <hi>eſtabliſh and defend Reli<g ref="char:EOLhyphen"/>gion,</hi> and <hi>the law of God;</hi> as (the Lord be prai<g ref="char:EOLhyphen"/>ſed) ours hath done; 2 to <hi>maintaine the funda<g ref="char:EOLhyphen"/>mentall Lawes and Liberties of the Kingdome,</hi> as wee may certainely perceiue hee doth and will doe; 3 to <hi>provide for the Common Safetie and Peace of the Subjects;</hi> as all may ſee he is doing; 4 <hi>Not needleſly to exhauſt, nor prodigally to miſpend the Treaſure of the State;</hi> which aſ<g ref="char:EOLhyphen"/>ſuredly no man can ſay he hath done; <hi>yea</hi> and I doubt not but he and they will eaſily diſcerne, what a <hi>difference</hi> there is betwixt his <hi>happy Throne,</hi> and the <hi>tottering State</hi> of thoſe, who ſhould governe in a <hi>Common-weale,</hi> where the <hi>Religion</hi> was directed by<note n="b" place="margin">L. <hi>5.</hi> de Pont. Rom. c: <hi>6.7.</hi>
+               </note> 
+               <hi>Bellarmine,</hi>
+               <note n="c" place="margin">Jnſtit. Cathol tit. <hi>46.</hi> ſ. <hi>75.</hi>
+               </note> 
+               <hi>Simancha,</hi>
+               <note n="d" place="margin">L. <hi>1.</hi> inſtr. c. <hi>13</hi>
+               </note> 
+               <hi>Tolet,</hi>
+               <note n="e" place="margin">Doleman</note> 
+               <hi>Parſons,</hi>
+               <note n="f" place="margin">Philopater</note> 
+               <hi>Creſwell,</hi>
+               <note n="g" place="margin">De viſib. Mo<g ref="char:EOLhyphen"/>narch. l. <hi>2.</hi> c. <hi>4.</hi>
+               </note> 
+               <hi>Saunders,</hi>
+               <note n="h" place="margin">Didymus. p. <hi>261</hi>
+               </note> 
+               <hi>Stapleton,</hi> and that<note n="i" place="margin">Jeſ. l. de juſta abdicat: p. <hi>46.</hi> Raynaldus de juſta autorit. p. <hi>8</hi> Azorius Inſt. mor. c <hi>15.</hi> Bozius de Eccl. monarch. temporal. ad Clem. <hi>8.</hi>
+               </note> Ieſuited ſocietie; Or by<note n="k" place="margin">De iure reg. apud Scot.</note> 
+               <hi>Buchanon,</hi>
+               <note n="l" place="margin">Apol. et Hiſtor</note> 
+               <hi>Knox,</hi>
+               <note n="m" place="margin">De Polit. Chriſt. l. <hi>2.</hi> c. <hi>6</hi>
+               </note> 
+               <hi>Danaeus,</hi>
+               <note n="n" place="margin">Conference &amp;c. and before the King and Councell. <hi>De<g ref="char:EOLhyphen"/>cemb.</hi> 21. 1585.</note> 
+               <hi>Iames Gibſon,</hi>
+               <note n="o" place="margin">
+                  <hi>In Q</hi> Maries <hi>time, &amp;c.</hi> vid. Bilſon part. <hi>3.</hi> cit. p. <hi>516.</hi>
+               </note> 
+               <hi>Goodman,</hi> before
+<pb n="23" facs="tcp:183904:14"/>the time of his Recantation, and that facti<g ref="char:EOLhyphen"/>ous fraternitie; The one of which makes the <hi>Church above the King, and the Pope above the Church,</hi> and ſo dethrones Princes by his Thunderbolts of <hi>Excommunication</hi> and <hi>De<g ref="char:EOLhyphen"/>privation.</hi> The other make <hi>the Law above the King,</hi> and <hi>the people above the Law,</hi> and ſo de<g ref="char:EOLhyphen"/>poſe Princes, by their <hi>Tumults,</hi> and <hi>Inſur<g ref="char:EOLhyphen"/>rections;</hi> yet that I may not wrong them, (nor we wrong our ſelves and our Sove<g ref="char:EOLhyphen"/>raigne, by <hi>opinions</hi> borrowed from them, but <hi>miſunderſtood,</hi>) the later ſort (if I un<g ref="char:EOLhyphen"/>derſtand) ſtretch not ſo farre, as againſt an <hi>Hereditary ſucceſsive Ruler;</hi> but onely to thoſe,<note n="a" place="margin">
+                  <hi>Paraeus in loc. explic. dub. de po<g ref="char:EOLhyphen"/>teſtate civili, pro<g ref="char:EOLhyphen"/>poſit.</hi> 2. <hi>rat.</hi> 3. And <hi>Buchanon de jure regni apud Scon</hi> about the latter end of that factious diſcourſe, layes the like ground for all his Re<g ref="char:EOLhyphen"/>bellious poſiti<g ref="char:EOLhyphen"/>ons.</note> 
+               <hi>qui conſtituuntur, vel per populi conſen<g ref="char:EOLhyphen"/>ſum, vel per ſenatum, velper electores, velper a<g ref="char:EOLhyphen"/>lios Magiſtratus;</hi> who are placed over the people, 1 either by the conſent of them<g ref="char:EOLhyphen"/>ſelves in general; 2 or by the Senate or Parli<g ref="char:EOLhyphen"/>ament in ſpecial; 3 or by Electors in particu<g ref="char:EOLhyphen"/>lar; 4 or by other Magiſtrates and Rulers which are Superiours; And of theſe they hold, that <hi>quorum eſt conſtituere, eorum eſt eti<g ref="char:EOLhyphen"/>am enormiter graſſantes coercere;</hi> which <hi>para<g ref="char:EOLhyphen"/>doxe,</hi> although I have not time to <hi>diſpute,</hi> yet
+<pb n="24" facs="tcp:183904:15"/>I may <hi>conclude poſitively,</hi> that, <hi>howſoever this trencheth not upon our Princes, nor warranteth any waywardneſſe in our State.</hi> And therefore I leave them and their digladiations about <hi>Elective Dignities,</hi> and praying for the <hi>peace</hi> of our <hi>hereditary</hi> ſetled Kingdome, deſcend to take a view of the Trunke of this body Politick, which is the <hi>Common-weale.</hi> Where, although I name onely the <hi>Common-weale,</hi> yet I would not be underſtood as if I inten<g ref="char:EOLhyphen"/>ded to <hi>exempt the Clergie;</hi> The <hi>Church</hi> and <hi>State</hi> being ſo nearely united, that though they may ſeeme two bodies, yet indeed in ſome reſpects they may be accounted but as one, in as much as they are made up of the ſame men, which are differenced onely in relation to <hi>ſpirituall</hi> or <hi>civill ends;</hi> ſo that whereas verſ. 1. <hi>Every ſoule</hi> is injoyned to be <hi>ſubject</hi> in performance of this dutie; <hi>O<g ref="char:EOLhyphen"/>ſtendit Apoſtolus quod iſta imperentur omnibus, &amp; ſacerdotibus, &amp; monachis, non ſolùm ſecula<g ref="char:EOLhyphen"/>ribus; Etiam ſi Apoſtolus ſis, ſi Evangeliſta, ſi Propheta, ſive quiſquis tandem fueris,</hi> ſaith S. <hi>Chryſoſtome;</hi> whatſoever the Pope and his Shavelings gloſſe to the contrary. But lea<g ref="char:EOLhyphen"/>ving
+<pb n="25" facs="tcp:183904:15"/>them, as not ſo fit ſubjects for the pre<g ref="char:EOLhyphen"/>ſent occaſion: Although the <hi>Common-weale</hi> be ſafeſt and moſt beautifull when it is at <hi>unitie</hi> in it ſelfe, and <hi>diviſions</hi> are alwayes <hi>dangerous,</hi> yet that the ſpecioſitie may the better appeare to us, wee muſt ſurvey it by particulars; Of which the remainder of this ſhort houre here, will give us leave to ſhew but a few: Nor know I whether the <hi>Law</hi> ſhould be reckoned in this ranke, or as a <hi>medium</hi> betwixt the Prince and People: But whereas the <hi>Law is a mute Iudge, and the Iudge a ſpeaking Law;</hi> ſo that theſe two are ſometimes <hi>Termini convertibiles;</hi> and the State can as ill ſtand without the one as the other; the <hi>Law</hi> reſtraining the <hi>Iudges affec<g ref="char:EOLhyphen"/>tion,</hi> and the <hi>Iudge</hi> ſupplying the <hi>Lawes de<g ref="char:EOLhyphen"/>fect;</hi> I will here point at them promiſcu<g ref="char:EOLhyphen"/>ouſly, in theſe foure particulars following.</p>
+            <p>The <hi>Dutie</hi> therefore of the <hi>Law</hi> and <hi>In<g ref="char:EOLhyphen"/>terpreters</hi> of the ſame is,
+<list>
+                  <item>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt; to be <hi>juſt, without tyranny;</hi> not, <hi>Sic volo, ſic jubeo, ſtet pro ratione voluntas;</hi> That were too cruell for a <hi>Conqueror.</hi>
+                  </item>
+                  <item>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly; <hi>Equall without partialitie:</hi> The
+<pb n="26" facs="tcp:183904:16"/>ſame Law ſhall be to him that is borne in thine houſe, and to the ſtranger, <hi>Exod.</hi> 12.49. And thou ſhalt not reſpect the perſon of the poore, nor the rewards of the rich in judgement, <hi>Exod.</hi> 23. this is needfull even for a <hi>Iustice in the country.</hi>
+                  </item>
+                  <item>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly; They muſt be <hi>moderate without extremity,</hi> for <hi>Summum jus ſumma injuria;</hi> But this is moſt proper for an <hi>arbitrary</hi> triall, or the <hi>Chancery.</hi>
+                  </item>
+                  <item>
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly; They muſt be <hi>plaine without ambiguitie:</hi> Not like thoſe Lawes in the Conquerors time, of which <hi>Hollinſhed</hi> complaines, that the peoples eſtates were confiſcate, before they knew the Law, or underſtood the meaning of it; And this I take to bee <hi>proper and peculiar</hi> to you, who are the <hi>Reverend Grave Interpreters</hi> in theſe Solemne Iudicious Aſſemblies; which I hope you will ſo explaine, that theſe times ſhall not need to complaine, that they are made <hi>ſnares and traps to catch men. Iere<g ref="char:EOLhyphen"/>mie</hi> 5.26.</item>
+               </list>
+            </p>
+            <p>And as there are theſe <hi>Duties</hi> of the Law and Law-givers; ſo is there <hi>Due</hi> to the Law,
+<pb n="27" facs="tcp:183904:16"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt <hi>Execution,</hi> which is the life of it: <milestone type="tcpmilestone" unit="unspecified" n="2"/> and ſecondly <hi>Obedience,</hi> which is the fruit of it; <milestone type="tcpmilestone" unit="unspecified" n="3"/> or elſe laſtly <hi>puniſhment,</hi> which is the power of it: So that whoſoever will not doe the Law of <hi>God,</hi> and the Law of the <hi>King,</hi> the Iudges muſt judge him, and let judgement be executed ſpeedily upon him; whether it be unto <hi>death,</hi> or unto <hi>baniſhment,</hi> or to <hi>con<g ref="char:EOLhyphen"/>fiſcation of goods,</hi> or to <hi>impriſonment, Ezra</hi> 7.25.26.</p>
+            <p>Wherein I need not to purſue the expla<g ref="char:EOLhyphen"/>nation of what is due to every particular offendor; As that he who is a <hi>Traitor to the King,</hi> ſhould bee deſtroyed, and made an Example of obloquie to poſteritie, as <hi>Big-than</hi> and <hi>Tereſh, Eſth.</hi> 6.2.</p>
+            <p>He that <hi>ſheds mans blood,</hi> by man ſhall his blood be ſhed, <hi>Gen.</hi> 9.6.</p>
+            <p>He that <hi>wounds another,</hi> muſt ſuffer an eye for an eye, and a tooth for a tooth, <hi>Exod.</hi> 21.24. Although not <hi>lege talionis,</hi> yet <hi>Reta<g ref="char:EOLhyphen"/>liationis,</hi> by making ſatisfaction, <hi>verſ.</hi> 19.</p>
+            <p>He that endeavors to <hi>damnifie anothers cre<g ref="char:EOLhyphen"/>dit by falſe rumours, or his ſtate by falſe witneſſe,</hi> as he would have done to another, ſo ſhall
+<pb n="28" facs="tcp:183904:17"/>it be done to him, <hi>Deut.</hi> 19.16. to 20. ei<g ref="char:EOLhyphen"/>ther <hi>patiendo,</hi> by ſuffering puniſhment, or <hi>faciendo,</hi> by paying Damage, or by both.</p>
+            <p>Theſe I ſay and infinite others, neither will <hi>time</hi> permit, nor doth your <hi>experience</hi> ſtand need; nor will the <hi>difference betwixt the Iewiſh and Chriſtian Common-weales</hi> give leave, to parallell in all particulars; Onely as I am aſſured that you which are to judge, will doe it as for the Lord, and not for men, 2 Chron. 19.6. So I humbly and earneſtly entreat, (for I will not preſume to adviſe) whereas by the <hi>Law of God,</hi> a <hi>diſobedient rio<g ref="char:EOLhyphen"/>tous perſon, and a drunkard,</hi> upon complaint of the parents, was to bee <hi>ſtoned, Deut.</hi> 21.20.21. yea and by the <hi>lawes of this Land,</hi> ſuch are to be ſeverely puniſhed. And whereas there are daily <hi>complaints</hi> of their <hi>naturall pa<g ref="char:EOLhyphen"/>rents,</hi> (although not <hi>coram Iudice</hi>) againſt them with <hi>ſighes</hi> and <hi>teares;</hi> whileſt they feele their <hi>ſubſtance</hi> exhauſted, heare their <hi>names</hi> diſcredited, ſee their <hi>neighbours</hi> abu<g ref="char:EOLhyphen"/>ſed, yea oftentimes their owne <hi>lands,</hi> (which they in hope to advance them paſ<g ref="char:EOLhyphen"/>ſed over to them) paſſed away and waſted
+<pb n="29" facs="tcp:183904:17"/>in their life time, and all their <hi>hopes</hi> fruſtra<g ref="char:EOLhyphen"/>ted. And whereas almoſt hourely, their <hi>ſpi<g ref="char:EOLhyphen"/>rituall Parents</hi> complaine againſt them in the <hi>Pulpit,</hi> and their <hi>Politicall Parents,</hi> threa<g ref="char:EOLhyphen"/>ten them <hi>pro Tribunali,</hi> and yet can have <hi>no amendment;</hi> I humbly and earneſtly intreate you, that you will not ſuffer ſuch <hi>Locuſts</hi> to conſume that, which might maintaine ma<g ref="char:EOLhyphen"/>ny able men, to doe the <hi>King</hi> and <hi>Countrey</hi> ſervice; and they thereby make themſelves unfit and unable for all imployment; And that you will not ſuffer the <hi>Horſe-leach,</hi> the <hi>Alehouſe-keeper,</hi> the ſinke and common re<g ref="char:EOLhyphen"/>ceptacle of the ſinnes of a Towne or Citie, to thrive by the undoing of the Spendthrift and of the Common-wealth. Let not <hi>Da<g ref="char:EOLhyphen"/>lilah</hi> be in riched by betraying <hi>Sampſon</hi> to ſla<g ref="char:EOLhyphen"/>verie, nor the <hi>Harlots</hi> ruffle with the <hi>Prodi<g ref="char:EOLhyphen"/>gals portion,</hi> whileſt hee eates huskes with Swine; but let theſe <hi>fratres in malo,</hi> partake together of the puniſhment, as they have done of the ſinne.</p>
+            <p>And whereas, there is not onely a Law of God, but even of man againſt <hi>the propha<g ref="char:EOLhyphen"/>ning of the Lords day;</hi> which concernes the
+<pb n="30" facs="tcp:183904:18"/>fourth Commandement. And another a<g ref="char:EOLhyphen"/>gainſt <hi>ſwearing,</hi> which concernes the third Commandement; Let not the one be bro<g ref="char:EOLhyphen"/>ken euen before your ſeates of <hi>Iudicature,</hi> whileſt you have a <hi>Pleader</hi> vouch his <hi>Aſſer<g ref="char:EOLhyphen"/>tions</hi> with his owne <hi>oathes</hi> in ſtead of other <hi>evidence,</hi> as if he would make good the de<g ref="char:EOLhyphen"/>fects of his <hi>Rhetoricke</hi> with his <hi>reputation;</hi> or as if he had received a <hi>Double Fee,</hi> the one to <hi>Argue,</hi> the other to make <hi>Affidavit;</hi> and yet paſſe unpuniſhed, for examples ſake. Neither leave you <hi>God,</hi> as the Father of <hi>Gide<g ref="char:EOLhyphen"/>on</hi> did <hi>Baal,</hi> to plead for himſelfe, <hi>Iudg.</hi> 6.32. leſt hee <hi>plead</hi> againſt you with that <hi>Record, Zach.</hi> 5.1. to. 5. which will conſume your houſes with the Stone and Timber; Leſt he <hi>witneſſe</hi> againſt you with that <hi>evidence, Malac.</hi> 3.5. which ſpeedily ſhall <hi>convict</hi> you; leſt hee paſſe that <hi>ſentence of guiltineſſe</hi> upon you, fro<g ref="char:cmbAbbrStroke">̄</g> which you can procure nor <hi>pardon</hi> nor <hi>reprieve.</hi> Let not the other which concernes <hi>the Lords day,</hi> ſeeme to have been conſented to, onely upon the importuni<g ref="char:EOLhyphen"/>tie of a few preciſe perſons, but never in<g ref="char:EOLhyphen"/>tended for execution, leſt God ſet ſuch a
+<pb n="31" facs="tcp:183904:18"/>
+               <hi>memorandum</hi> upon them and you (who will not be carefull of the <hi>memento</hi> ſet upon that Commandement) that <hi>who ſo heareth of it, both his eares ſhall tingle.</hi>
+            </p>
+            <p>And as you muſt be thus <hi>ſingle-hearted,</hi> who are the <hi>Heart</hi> of this <hi>Body politike,</hi> ſo to the end that the whole <hi>Body</hi> may be <hi>cleare,</hi> thoſe which are to be your <hi>eyes,</hi> the <hi>Iurors,</hi> and thoſe which are to be their <hi>Optickes,</hi> the <hi>evidence,</hi> muſt take heed that they bee not <hi>blinded,</hi> either with 1 <hi>feare,</hi> 2 <hi>affection,</hi> or 3 <hi>reward;</hi> for if the eye be darke,<note n="a" place="margin">Mat. 6.23.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>? how farre out of the way muſt the beſt members wander?</p>
+            <p>Let not therefore <hi>a great mans Livery,</hi> prove like <hi>Achans Babyloniſh garment;</hi> nor a <hi>rich mans purſe,</hi> like his <hi>wedge of gold;</hi> neither let any be found amongſt you of the <hi>Iurie,</hi> who (like the <hi>High Prieſts</hi> againſt <hi>Chriſt</hi>) have ſo much reſpect to the <hi>Common cauſe,</hi> (for feare it ſhould prejudice your owne intereſt hereafter) that you will forfeit your <hi>Private conſciences</hi> for the preſent; <hi>If we let him alone, the Romans will come and take away our government: Ioh.</hi> 11.48. So if you let this
+<pb n="32" facs="tcp:183904:19"/>or that paſſe, it will be a <hi>leading caſe</hi> againſt your <hi>Command</hi> or <hi>Commoditie,</hi> and therefore cruſh it, be it <hi>right</hi> or <hi>wrong.</hi>
+            </p>
+            <p>Yea and thoſe which are to bee your <hi>Hands,</hi> (for I muſt ſtill follow the Allego<g ref="char:EOLhyphen"/>rie of the body, and it fits us,) your <hi>ſervants and officers,</hi> muſt not be like <hi>Blaſtus, Herods Chamberlaine,</hi> who ſo they may have the <hi>fee<g ref="char:EOLhyphen"/>ling of a Fee,</hi> from them who give it for love of their owne Licentiouſneſſe, and not of Law or Iuſtice, will procure a peace for men as wicked as <hi>Tyre</hi> &amp; <hi>Sydon; Act.</hi> 12.22. Theſe things if you beware of, you will make up <hi>a ſound body,</hi> beſeeming ſo <hi>becautifull a Head,</hi> as was before deſcribed; and upon the accompliſhment of theſe Duties, <hi>(Right Reverend Sages)</hi> you may expect and can<g ref="char:EOLhyphen"/>not miſſe of theſe Dues; <hi>Commendations</hi> and <hi>Cheriſhing</hi> from our <hi>Soveraigne; Thanks</hi> from your <hi>Countrie,</hi> in the generall; <hi>prayers</hi> from the <hi>Sutors,</hi> in particular; <hi>Temporall honour</hi> up<g ref="char:EOLhyphen"/>on earth; and <hi>eternall glory</hi> in Heaven;</p>
+            <p>In hope of which <hi>Duties</hi> to bee perfor<g ref="char:EOLhyphen"/>med by you, and <hi>Dues</hi> to bee prepared for you, I will proceed to the <hi>Third Theſis,</hi> which is</p>
+            <pb n="33" facs="tcp:183904:19"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 
+               <hi>That although there be Duties to which Chri<g ref="char:EOLhyphen"/>ſtians are ſo obliged, and all have their part in the matter of that obligation or dutie, yet they have it in a different degree or manner, every man in his proper and peculiar place and order:</hi> deſigned in this word <hi>(Their) Their Dues.</hi>
+            </p>
+            <p>The <hi>People</hi> muſt not be <hi>buſie-bodies</hi> to pry into the <hi>Princes</hi> Dutie, the <hi>Laitie</hi> into the <hi>Clergies,</hi> or the <hi>Iuror</hi> into the <hi>Iudges,</hi> but eve<g ref="char:EOLhyphen"/>ry one into his owne, as wee have a Preſi<g ref="char:EOLhyphen"/>dent, <hi>Luke</hi> 3. verſ. 10. to 15. where the <hi>peo<g ref="char:EOLhyphen"/>ple</hi> doe not come and complaine of the <hi>Ex<g ref="char:EOLhyphen"/>action</hi> of the <hi>Publicans,</hi> nor the <hi>violence</hi> of the <hi>Soliders,</hi> but inquire of their <hi>owne dutie,</hi> what ſhall <hi>we</hi> doe? and receive directions accordingly. The <hi>Publicans</hi> doe not com<g ref="char:EOLhyphen"/>plaine of the <hi>backwardneſſe of the people in pay<g ref="char:EOLhyphen"/>ments,</hi> or of the <hi>Souldiers in clamorouſneſſe,</hi> but inquire, what ſhall <hi>we</hi> doe? and are in<g ref="char:EOLhyphen"/>ſtructed in their peculiar dutie. The <hi>Souldi<g ref="char:EOLhyphen"/>ers,</hi> doe not complaine how the <hi>people rebel<g ref="char:EOLhyphen"/>led</hi> and the <hi>Publicans with held their pay,</hi> but come with what ſhall <hi>we</hi> doe? and are in<g ref="char:EOLhyphen"/>ſtructed according to their calling. Teach<g ref="char:EOLhyphen"/>ing us that none ſhould be <hi>Curioſus in aliena
+<pb n="34" facs="tcp:183904:20"/>Republica,</hi> and <hi>Deſidioſus in ſua: Aug. Stella,</hi> and <hi>Gualter. Quid de me loquuntur homines?</hi> what ſay men of me? and who am I? is the queſtion of a <hi>carefull man;</hi> exemplified in our Saviour, <hi>Matth.</hi> 16.13. <hi>Tu quis es?</hi> who or what art thou? is the queſtion of a <hi>captious man,</hi> repreſented in the Phariſes Meſſengers, <hi>Ioh.</hi> 1.19.22. But, <hi>Quid hic faciet?</hi> what ſhall this man doe? is the inquiſition of a <hi>curious man, Ioh.</hi> 21.21. yea and Saint <hi>Peter</hi> himſelfe cannot paſſe with it, without the reprehen<g ref="char:EOLhyphen"/>ſion of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>? what is that to thee? verſe 22. For often times it drawes upon them who delight in it, ſuch <hi>deſerved deſtruction,</hi> that <hi>Funcius</hi> his funerall verſes had been a more profitable Meditation, then this their Poly<g ref="char:EOLhyphen"/>pragmaticall diſpoſition;</p>
+            <l>
+               <hi>Diſce meo exemplo mandato munere fungi,</hi>
+            </l>
+            <l>
+               <hi>Et fuge ceu peſtem</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</l>
+            <l>Let my death teach thee how to frame thy life.</l>
+            <l>Fly cenſure like the plague, it breeds but ſtrife,</l>
+            <p>Which that every man may be the better contented to doe, and to containe himſelfe within the <hi>Liſts of obedience and limits of his calling,</hi> I will onely briefly point at the
+<pb n="35" facs="tcp:183904:20"/>manner of practiſe required at every mans hands, to the end that he may performe his dutie according to this order which muſt be</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly, <hi>not for meere Compulſorie ne<g ref="char:EOLhyphen"/>ceſsitie, but voluntarily and cheerefully:</hi> denota<g ref="char:EOLhyphen"/>ted in this word <hi>Give</hi> or <hi>Render.</hi>
+            </p>
+            <p>
+               <hi>Cranmer</hi> and <hi>Thomſon,</hi> render it <hi>[Give]</hi> inti<g ref="char:EOLhyphen"/>mating that it ſhould not bee done grud<g ref="char:EOLhyphen"/>gingly or of neceſſity, as the Apoſtle ſpeakes of Charitie, 2 <hi>Cor:</hi> 9.7. For <hi>Nec leproſa obedi<g ref="char:EOLhyphen"/>entia, nec canina patientia, Deo commendatur, Bern.</hi> A lame obedience, which comes ſlowlie after, and a dogged patience, which goes ſnarling and grumbling on, loſe part of their grace and gratefull acceptation.</p>
+            <p>A <hi>Chriſtian</hi> muſt doe his duties with <hi>cheerefulneſſe, Rom.</hi> 12, 8. <hi>and</hi> 2 <hi>Cor.</hi> 9.7. before cited; for <hi>Conſcience ſake,</hi> and not for <hi>Neceſsitie,</hi> verſe 5. of this chapter. <hi>Give</hi> as of <hi>good will,</hi> although it were not his <hi>dutie</hi> to <hi>render</hi> or <hi>pay.</hi>
+            </p>
+            <p>But the <hi>Vulgar, Tremelius, Beza,</hi> and the <hi>Kings Bible,</hi> read it <hi>[Render]</hi> which agreeth with the Greeke Text <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; By which
+<pb n="36" facs="tcp:183904:21"/>word as<note n="a" place="margin">In loc.</note> 
+               <hi>Marlorat</hi> obſerves, <hi>ſignificat debi<g ref="char:EOLhyphen"/>tum quoddam inexcuſabile ſubditis impoſitum eſſe;</hi> The Apoſtle ſignifieth, that there is <hi>an inexcuſable debt lying upon the Subjects;</hi> which hee ſeemes to have borrowed from<note n="b" place="margin">
+                  <hi>Or</hi> Theophil. Vid. ſimiliter, Pet. Mart. Muſcul. Gualt. Aret.</note> 
+               <hi>Athanaſius,</hi> or <hi>Volgarius;</hi> who adde further, <hi>quod ſolvere principibus debeas,</hi> which <hi>ought</hi> to be <hi>paid</hi> to <hi>Princes;</hi> which might teach the <hi>Subject</hi> even in <hi>caſe of policie</hi> to take out that leſſon, <hi>Fiat voluntarium quod fu<g ref="char:EOLhyphen"/>turum eſt neceſſarium;</hi> Doe thou thy ſelfe make that <hi>voluntary,</hi> which others may make thee doe of <hi>neceſsity:</hi> And if it were but even for this Cauſe, <hi>Render therefore to all their dues.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:183904:21"/>
+         </div>
+      </body>
+   </text>
+</TEI>
